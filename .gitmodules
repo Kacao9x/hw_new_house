@@ -1,0 +1,6 @@
+[submodule "echoes_hardwa"]
+	path = echoes_hardwa
+	url = git@github.com:Kacao9x/echoes_hardwa.git
+[submodule "Hardware_Control"]
+	path = Hardware_Control
+	url = git@github.com:Kacao9x/Hardware_Control.git
